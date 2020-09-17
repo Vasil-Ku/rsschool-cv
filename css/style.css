@@ -1,0 +1,48 @@
+.body {
+  width: 1000px;
+  padding: 0;
+  margin: 0 auto;
+  align-self: center;
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.header {
+  display: flow;
+  align-self: center;
+}
+
+.my-avatar {
+  width: 120px;
+}
+
+.img {
+  margin-right: 50px;
+}
+
+.contacts {
+  width: 120px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.contacts-btn {
+  display: block;
+  width: 20px;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-me {
+  display: flow-root;
+  text-align: justify;
+}
