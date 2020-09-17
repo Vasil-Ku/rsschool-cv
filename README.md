@@ -1,1 +1,1 @@
-https://Vasil-Ku.github.io/rsschool-cv/
+https://Vasil-Ku.github.io/rsschool-cv/index.html
